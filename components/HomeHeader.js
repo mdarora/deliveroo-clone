@@ -7,7 +7,7 @@ export default function HomeHeader() {
         <View className="bg-white p-2">
             <View className="flex-row items-center gap-2">
                 <Image
-                    source={require("../assets/hh-img.avif")}
+                    source={require("../assets/hh-img.png")}
                     className="w-7 h-7 p-4 bg-gray-300 rounded-full"
                 />
                 <View className='flex-1'>
