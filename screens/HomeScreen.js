@@ -1,4 +1,4 @@
-import { View, Text, SafeAreaView, ScrollView, StyleSheet } from 'react-native';
+import { View, Text, SafeAreaView, ScrollView, StyleSheet, Platform } from 'react-native';
 import { StatusBar } from 'expo-status-bar'
 import React, { useLayoutEffect } from 'react'
 import { useNavigation } from '@react-navigation/native'
